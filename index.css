@@ -1,0 +1,17 @@
+body{
+    background-color: #121212 !important;
+}
+p,h1,h2,h3,h4{
+    color: white;
+}
+.container{
+background-color: black;
+}
+.card{
+    background-color: #121212;
+    color: white;
+}
+.col{
+}
+.title{
+}
